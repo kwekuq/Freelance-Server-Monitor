@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Author: Kweku Quansah
+Cell: 072 904 1537
+Email: kwekuq@gmail.com
+Country: South Africa
+-->
+<server>
+    <name>Vertex Concepts</name>
+    <ipaddress>localhost</ipaddress>
+    <dns1>53</dns1>
+    <dns2>53</dns2>
+    <http>80</http>
+    <mysql>3306</mysql>
+    <ssh>22</ssh>
+    <ssl>20</ssl>
+    <pop3>110</pop3>
+    <imap>143</imap>
+    <smtp>587</smtp>
+    <!--
+    Control
+    -->
+    <webmin>10000</webmin>
+    <cpanel>2083</cpanel>
+
+    <!--
+    Media ports
+    -->
+    <plex>32400</plex>
+    <XBMC>8080</XBMC>
+    <msmedia>1755</msmedia>
+    <internetradio>8000</internetradio>
+    <mythtv></mythtv>
+    <quicktime>6970</quicktime>
+    <!--
+    -->
+    <!--
+    Malicious ports
+    -->
+    <bagleh>2745</bagleh>
+    <mydoom1>3127</mydoom1>
+    <mydoom2>1080</mydoom2>
+    <spybot>9988</spybot>
+    <sasser>5554</sasser>
+    <backorifice>31337</backorifice>
+    <bagleb>8866</bagleb>
+    <blaster>4444</blaster>
+    <dabber>9898</dabber>
+    <netbus>12345</netbus>
+    <sub7>27374</sub7>
+</server>
